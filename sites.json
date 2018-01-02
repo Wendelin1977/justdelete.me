@@ -3442,6 +3442,17 @@
     },
 
     {
+        "name": "Komoot",
+        "url": "https://www.komoot.com/account",
+        "difficulty": "easy",
+        "notes": "In your account settings, scroll down to "Delete Account".",
+        "notes_de": "In den Benutzereinstellung zu den Link "Benutzerkonto löschen" scrollen.",
+        "domains": [
+            "komoot.de",
+        ]
+    },
+    
+    {
         "name": "Kongregate",
         "url": "http://www.kongregate.com/forums/7/topics/241772?page=1#posts-5207538",
         "difficulty": "hard",
