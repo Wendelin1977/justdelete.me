@@ -1441,6 +1441,23 @@
         ]
     },
 
+
+        {
+            "name": "Digitally Imported",
+            "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
+            "difficulty": "impossible",
+            "notes": "There's no information about account-deletion in their FAQ. The hotline also says that account-deletion isn't possible.",
+            "notes_fr": "Il n'y a pas d'informations sur la suppresion des comptes dans le FAQ. La ligne directe dit aussi qu'il n'est pas possible de le faire.",
+            "notes_de": "Keine Informationen in den FAQ über Account-Löschung. Der Mitarbeiter an der Hotline bestätigte, dass die Löschung nicht möglich ist.",
+            "notes_it": "Nessuna informazione nelle FAQ riguardo la cancellazione dell'account, l'operatore al telefono ha confermato che la cancellazione non è possibile.",
+            "notes_pt_br": "Nenhuma informação no FAQ sobre remoção de contas, o operador no telefone disse que deletar não é possível.",
+            "notes_cat": "No hi ha cap informació al FAQ sobre la cancel·lació de comptes, l'operador telefonic diu que no es poden esborrar els comptes.",
+            "notes_es": "No hay información en el FAQ sobre la cancelación de cuentas, el operador telefónico dice que no se pueden borrar las cuentas.",
+            "domains": [
+                "paket.de"
+            ]
+        },
+
     {
         "name": "DHL (Paket.de)",
         "url": "https://www.paket.de/pkp/appmanager/pkp/desktop?_nfpb=true&_nfxr=false&_pageLabel=pkp_portal_page_footer_cah_faqs",
@@ -1503,6 +1520,16 @@
     },
 
     {
+        "name": "Digitally Imported",
+        "url": "https://www.di.fm/contact",
+        "difficulty": "medium",
+        "notes": "Contact Costumer Support in order to close your account. They procceed your request quickly. Your account will remain this way unless you login again. DI.fm need to keep your member ID information in order to comply with streaming reporting.",
+        "domains": [
+            "di.fm"
+        ]
+    },
+
+    {
         "name": "DigitalOcean",
         "url": "https://cloud.digitalocean.com/settings/account",
         "difficulty": "easy",
@@ -1512,6 +1539,8 @@
             "digitalocean.com"
         ]
     },
+
+
 
     {
         "name": "diHITT",
@@ -3443,7 +3472,7 @@
 
     {
         "name": "Komoot",
-        "url": "https://www.komoot.com/account",
+        "url": "https://www.komoot.de/account",
         "difficulty": "easy",
         "notes": "In your account settings, scroll down to "Delete Account".",
         "notes_de": "In den Benutzereinstellung zu den Link "Benutzerkonto löschen" scrollen.",
@@ -3451,7 +3480,7 @@
             "komoot.de",
         ]
     },
-    
+
     {
         "name": "Kongregate",
         "url": "http://www.kongregate.com/forums/7/topics/241772?page=1#posts-5207538",
@@ -4252,7 +4281,7 @@
             "netology.ru"
         ]
     },
-    
+
     {
         "name": "Netvibes",
         "url": "http://www.netvibes.com/account/unsubscribe",
@@ -6812,7 +6841,7 @@
             "zeit.de"
         ]
     },
-    
+
     {
         "name": "Zendesk",
         "url": "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
