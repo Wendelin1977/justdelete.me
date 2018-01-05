@@ -3273,6 +3273,15 @@
     },
 
     {
+        "name": "jameda)",
+        "url": "https://www.jameda.de/mein-jameda/index.php?aktion=daten",
+        "difficulty": "easy",
+        "domains": [
+            "jameda.de"
+        ]
+    },
+
+    {
         "name": "JDate.com",
         "url": "http://www.jdate.com/",
         "difficulty": "easy",
