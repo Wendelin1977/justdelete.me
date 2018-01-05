@@ -3483,10 +3483,10 @@
         "name": "Komoot",
         "url": "https://www.komoot.de/account",
         "difficulty": "easy",
-        "notes": "In your account settings, scroll down to "Delete Account".",
-        "notes_de": "In den Benutzereinstellung zu den Link "Benutzerkonto löschen" scrollen.",
+        "notes": "In your account settings, scroll down to ''Delete Account''.",
+        "notes_de": "In den Benutzereinstellung zu den Link ''Benutzerkonto löschen'' scrollen.",
         "domains": [
-            "komoot.de",
+            "komoot.de"
         ]
     },
 
