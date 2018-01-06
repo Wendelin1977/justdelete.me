@@ -1,4 +1,13 @@
 [
+  {
+      "name": "000webhost",
+      "url": "https://www.000webhost.com/members/profile",
+      "difficulty": "easy",
+      "notes": "Login to your account, go to profile, click 'Close this account'. Enter your reason why leaving and confirm with clicking on 'Delete my account'.",
+      "domains": [
+          "000webhost.com"
+      ]
+  },
     {
         "name": "1Password",
         "url": "https://my.1password.com/profile",
@@ -6474,6 +6483,16 @@
         "notes": "Contact customer service to close your account.",
         "domains": [
             "walmart.com"
+        ]
+    },
+
+    {
+        "name": "wargaming.net",
+        "url": "https://eu.wargaming.net/support/tickets/create",
+        "difficulty": "impossible",
+        "notes": "Contact Costumer by creating a new ticket and ask them to close your account. You will need to provide them the name of the ISP and the name of the town during registration. Further you will need to provide them with information of any bonus codes used in your account. Finally, you have to confirm you agreement on the account deletion conditions. Please allow 45 days to process.",
+        "domains": [
+            "wargaming.net"
         ]
     },
 
