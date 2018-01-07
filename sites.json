@@ -3492,8 +3492,8 @@
         "name": "Komoot",
         "url": "https://www.komoot.de/account",
         "difficulty": "easy",
-        "notes": "In your account settings, scroll down to ''Delete Account''.",
-        "notes_de": "In den Benutzereinstellung zu den Link ''Benutzerkonto löschen'' scrollen.",
+        "notes": "In your account settings, scroll down to 'Delete Account'.",
+        "notes_de": "In den Benutzereinstellung zu den Link 'Benutzerkonto löschen' scrollen.",
         "domains": [
             "komoot.de"
         ]
@@ -4916,6 +4916,16 @@
         "domains": [
             "questions.points.com",
             "points.com"
+        ]
+    },
+
+    {
+        "name": "Polarisoffice.com",
+        "url": "https://www.polarisoffice.com/account#setting",
+        "difficulty": "easy",
+        "notes": "Login to your account. navigate to your account setting and click again 'account settings'. Then click 'Delete my Account' and confirm it.",
+        "domains": [
+            "polarisoffice.com"
         ]
     },
 
