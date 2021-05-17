@@ -583,10 +583,21 @@
     },
 
     {
+        "name": "Bestsecret",
+        "url": "https://www.Bestsecret.com/",
+        "difficulty": "Medium",
+        "notes": "To delete the account write a mail to service@bestsecret.com with the address you signed up.",
+        "notes_de": "Um den Account zu schließen, an service@bestsecret.com mit der hintelegten Emailadresse schreiben."
+        "domains": [
+            "bestsecret.com"
+        ]
+    },
+
+    {
         "name": "Betterment",
         "url": "https://www.betterment.com/",
         "difficulty": "impossible",
-        "notes": "Account can only be closed, but not trule deleted.",
+        "notes": "Account can only be closed, but not truly deleted.",
         "domains": [
             "betterment.com"
         ]
