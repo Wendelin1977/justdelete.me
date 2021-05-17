@@ -170,6 +170,16 @@
     },
 
     {
+        "name": "Alternate",
+        "url": "https://www.alternate.de/customerAccountPreferences.xhtml",
+        "difficulty": "easy",
+        "notes": "Login into your accunt settings and hit ''Delete Account'' N. B.: You find it below ''cookie preferences'' in dark grey",
+        "domains": [
+            "alternate.de"
+        ]
+    },
+
+    {
         "name": "Alvanista",
         "url": "http://alvanista.com/profile/edit",
         "difficulty": "easy",
